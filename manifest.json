@@ -1,0 +1,9 @@
+{
+  "main.js": "render-page.js",
+  "main.js.map": "render-page.js.map",
+  "static/scal3.jpg": "static/scal3-bfad52432c1d821e758585cfc9d0fe46.jpg",
+  "static/scal5.jpg": "static/scal5-d1234be97abea702d3e154a351210ea2.jpg",
+  "static/title1.png": "static/title1-fcf2d824b02f4e3221a8fbf55f51fd76.png",
+  "static/title2.png": "static/title2-bc682ff43cea7dbb34b8c32a8178d27d.png",
+  "static/titlepage.jpeg": "static/titlepage-e31597034d796fdf0c3f564e5ae3ed64.jpeg"
+}
